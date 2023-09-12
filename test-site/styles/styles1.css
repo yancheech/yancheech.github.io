@@ -1,0 +1,53 @@
+body {
+    background: black;
+        font-family: 'Bebas Neue', sans-serif;
+            font-family: 'Montserrat', sans-serif;
+       
+        width: 800px;
+        margin: 0 auto;
+        background-color: darkmagenta;
+        padding: 0 40px 40px 40px;
+        border: 5px solid white;
+          
+}
+.main-info {
+    color: white;
+        font-size: 15px;
+        line-height: 2;
+}
+        
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    color: white;
+    margin: 0;
+        padding: 20px 0;
+        color: white;
+        text-shadow: 3px 3px 1px black;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 762px;
+    height: 429px;
+}
+html {
+    background-color: darkviolet;
+    
+
+}
+
+.skillid {
+    border: 2px solid darkviolet;
+}
+
+button {
+    width: 200px;
+        color: black;
+        border-color: blueviolet;
+        
+}
+    
+
+
